@@ -19,7 +19,7 @@ Feature Extraction: Root Mean Square (RMS) energy features were extracted using 
 
 Model Training: A Multi-Layer Perceptron (MLP) classifier was trained on the extracted features.
 
-Evaluation: The model's performance was evaluated using metrics such as accuracy, precision, recall, and F1-score.
+Evaluation: The model's performance was evaluated.
 
 4. Results
 
